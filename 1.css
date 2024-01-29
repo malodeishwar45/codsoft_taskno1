@@ -1,0 +1,47 @@
+body {
+    font-family: 'Roman', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #FFB6C1;
+    color: #000000;
+    text-align: center;
+    padding: 20px;
+}
+
+section  {
+    background-color: #E6E6FA;
+    color: #000000;
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    margin: 0;
+}
+
+p {
+    margin: 5px 0;
+}
+
+section {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+}
+
+#about, #projects, #contact {
+    margin-bottom: 50px;
+}
+
+.project {
+    margin-bottom: 20px;
+}
+
+a {
+    color: #007BFF;
+    text-decoration: none;
+}
